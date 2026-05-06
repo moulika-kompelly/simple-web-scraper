@@ -13,4 +13,5 @@ Tech Stack
 How to run
 
 pip install -r requirements.txt
+
 python scraper.py
